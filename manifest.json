@@ -1,14 +1,14 @@
 {
   "name": "隱私強化技術應用指引",
   "short_name": "隱私強化技術應用指引",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/moda-PETs-guide/",
+  "scope": "/moda-PETs-guide/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/favicon.svg",
+      "src": "/moda-PETs-guide/favicon.svg",
       "sizes": "512x512"
     }
   ]
