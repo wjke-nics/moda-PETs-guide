@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = '隱私強化技術應用指引'
+theme = 'hugo-book'

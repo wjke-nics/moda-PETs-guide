@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/docs/section-1/goal/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/section-1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/section-2/tech/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/section-2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/section-1/terms/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/section-2/flow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>

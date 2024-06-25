@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>隱私強化技術應用指引</title>
+    <link>http://localhost:1313/docs/%E4%BB%80%E9%BA%BC%E6%98%AF%E9%9A%B1%E7%A7%81%E5%BC%B7%E5%8C%96%E6%8A%80%E8%A1%93/</link>
+    <description>Recent content on 隱私強化技術應用指引</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/docs/%E4%BB%80%E9%BA%BC%E6%98%AF%E9%9A%B1%E7%A7%81%E5%BC%B7%E5%8C%96%E6%8A%80%E8%A1%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>隱私強化技術概述</title>
+      <link>http://localhost:1313/docs/%E4%BB%80%E9%BA%BC%E6%98%AF%E9%9A%B1%E7%A7%81%E5%BC%B7%E5%8C%96%E6%8A%80%E8%A1%93/page-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/%E4%BB%80%E9%BA%BC%E6%98%AF%E9%9A%B1%E7%A7%81%E5%BC%B7%E5%8C%96%E6%8A%80%E8%A1%93/page-1/</guid>
+      <description>隱私強化技術概述 # 廣義上隱私強化技術（Privacy Enhancing Technologies, PETs）可泛指所有用於保護資料隱私或資料機敏性之技術方法。包含加密確保資料於傳輸（in transit）及靜態儲存（at rest）時的機密性及各種已發展成熟的傳統去識別化技術，如記號化（tokenization）等假名化技術，以及k-匿名化（k-anonymization）、泛化等匿名化方法。&#xA;於全球發展資料驅動治理及創新的趨勢下，各種新興的隱私強化技術也引領隱私保護方法的革新，這類技術更強化保障資料在使用階段（in use）的隱私安全，也更著重於為時下資料應用場景所面臨之隱私挑戰，衡平隱私保護與資料運用需求，透過技術方法降低直接利用原始資料所衍生之風險，同時保有資料可用性。</description>
+    </item>
+    <item>
+      <title>隱私強化技術施用流程</title>
+      <link>http://localhost:1313/docs/%E4%BB%80%E9%BA%BC%E6%98%AF%E9%9A%B1%E7%A7%81%E5%BC%B7%E5%8C%96%E6%8A%80%E8%A1%93/page-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/%E4%BB%80%E9%BA%BC%E6%98%AF%E9%9A%B1%E7%A7%81%E5%BC%B7%E5%8C%96%E6%8A%80%E8%A1%93/page-2/</guid>
+      <description>隱私強化技術施用流程 # 隱私強化技術種類繁多，個別技術具有不同之資源需求及投入成本，當組織進行資料之蒐集、處理及利用時，應評估採取具有適當比例原則之安全措施。&#xA;下列之施用流程即以風險評估之結果作為是否使用隱私強化技術之評估參考，並由組織設定隱私保護之目標情境（如保護隱私資料於蒐集階段之機密性），評估適宜之隱私保護技術機制，並於實作階段規劃系統架構、整備所需資源、進行技術實作，於運作階段應將經隱私強化處理之資料納入風險評估，並定期執行，以因應如法規、技術環境變遷等內外部因素。</description>
+    </item>
+  </channel>
+</rss>
