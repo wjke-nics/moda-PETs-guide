@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
+baseURL = 'https://wjke-nics.github.io/moda-PETs-guide/'
+languageCode = 'zh-tw'
 title = '隱私強化技術應用指引'
 theme = 'hugo-book'
